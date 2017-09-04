@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenNames">
+        <item>Start Flooder</item>
+        <item>Settings</item>
+        <item>Logger</item>
+    </string-array>
+
+    <array name="screenIcons">
+        <item>@drawable/ic_whatshot_grey600_24dp</item>
+        <item>@drawable/ic_settings_grey600_24dp</item>
+        <item>@drawable/ic_sort_grey600_24dp</item>
+    </array>
+</resources>
